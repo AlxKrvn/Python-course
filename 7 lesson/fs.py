@@ -4,5 +4,5 @@ def summ(a, b):
     c = 0
     for i in range(a, b+1):
         c += i
-    print(c)
-summ(int(input()), int(input()))
+    return(c)
+print(summ(int(input()), int(input())))
