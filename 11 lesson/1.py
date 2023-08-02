@@ -25,7 +25,3 @@ txt = input()
 
 # вызываем функцию
 print(cool_password(txt))
-
-    
-            
-
